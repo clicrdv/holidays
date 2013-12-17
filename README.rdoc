@@ -92,7 +92,8 @@ Tests can be run using rake test, use rake -T to see all available tasks.
 * Build status: http://travis-ci.org/#!/alexdunae/holidays
  
 Started by Alex Dunae (dunae.ca, e-mail 'code' at the same domain), 2007-12.
-Maintained by Hana Wang (https://github.com/hahahana), 2013
+
+Maintained by ClicRDV (https://clicrdv.com/), 2013
 
 On Twitter: @MrMrBug.
  
